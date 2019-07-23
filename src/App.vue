@@ -3,7 +3,7 @@
         <!--顶部-->
         <mt-header fixed title="Vue-Demo1"></mt-header>
         <!--内容-->
-        <h1>1 2 3</h1>
+        <h1>1 2 3 4</h1>
 
         <!--底部-->
         <nav class="mui-bar mui-bar-tab">
