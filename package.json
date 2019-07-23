@@ -18,6 +18,7 @@
     "jquery": "^3.4.1",
     "open-browser-webpack-plugin": "0.0.5",
     "vue": "^2.6.10",
+    "vue-resource": "^1.5.1",
     "vue-router": "^3.0.7"
   },
   "devDependencies": {
